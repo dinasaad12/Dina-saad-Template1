@@ -435,8 +435,7 @@ color: var(--main-color);
 
 
 /* start top arrow */
-
-/* .top_arrow{
+.top_arrow{
 position: fixed;
 bottom: 24px;
 right: 24px;
@@ -447,7 +446,7 @@ display: block;
 .top_arrow i{
   color: red;
   font-size: 40px; 
-} */
+} 
 
 
 /* start top arrow */
